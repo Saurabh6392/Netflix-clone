@@ -1,0 +1,2 @@
+# Netflix-clone
+Major Project
